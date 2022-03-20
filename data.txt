@@ -1,0 +1,5 @@
+The name of the course is CPP
+Today we studied about the concepts of the file handling
+The great pranav sir is teaching us the C++
+elephant is a wild animal
+eagle is dangerous bird
