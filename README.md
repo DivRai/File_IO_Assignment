@@ -1,4 +1,4 @@
-1. Count the number of time the word 'the' is present in the file. <br>
+Markup : 1. Count the number of time the word 'the' is present in the file. <br>
 2. Count the number of words that has 'a' in them. <br>
 3. Count the number of words that start with 'e'. <br>
 4. Count the number of words that end with 's'. <br>
